@@ -16,9 +16,9 @@ centos              latest              d123f4e55e12        10 days ago         
 ### Run docker in background
 
 * docker run -d d123f4e55e12 sleep 1000
+* docker run --rm d123f4e55e12 sleep 10
 * docker ps
 * docker ps -a
-* docker run --rm d123f4e55e12 1
 
 
 ### Docker Detach Mode 
