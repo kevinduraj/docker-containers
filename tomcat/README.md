@@ -10,4 +10,8 @@ Tomcat Docker
 
 * http://localhost:8888
 
+### Container History
+
+* docker history tomcat
+
 
