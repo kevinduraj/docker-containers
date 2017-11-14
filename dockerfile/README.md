@@ -4,6 +4,8 @@ Building Image from Dockerfile
 * write Dockerfile
 
 * docker build -t kevin774/debian . 
+* docker build -t kevin774/debian . --no-cache=true
+
 
 ```
 $ docker run 1806785cff2b
