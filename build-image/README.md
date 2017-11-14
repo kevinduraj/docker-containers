@@ -23,3 +23,4 @@ debian              jessie              25fc9eb3417f        10 days ago         
 hello-world         latest              725dcfab7d63        10 days ago          1.84kB
 ```
 
+* docker run -it kevin774/debian:1.0
