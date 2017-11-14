@@ -3,4 +3,6 @@ RUN apt-get update && \
 	apt-get install -y git && \
 	apt-get install -y python && \
 	apt-get install -y vim
-CMD ["echo", "Hello World"]
+
+COPY README.md /src/README.md
+

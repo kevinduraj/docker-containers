@@ -16,3 +16,9 @@ Hello World
 
 * docker run 1806785cff2b echo "Hello Kevin"
 
+
+### Copy README.md
+
+* docker run -it 4c94b0fa0b25
+* ls src/
+
