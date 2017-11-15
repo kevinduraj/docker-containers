@@ -32,5 +32,16 @@ dockerapp
 3. docker build -t dockerapp:v0.3 .
 4. docker run -d -p 5000:5000 --link redis dockerapp:v0.3
 5. http://localhost:5000
+6. docker stop 2e629f0b730a
 ```
 
+### Docker Compose
+* docker-compose build
+
+* docker-compose up
+* docker-compose ps
+* docker-compose logs -f
+* docker-compose logs dockerapp
+
+* docker-compose stop
+* docker-compose rm
