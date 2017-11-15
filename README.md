@@ -8,5 +8,6 @@ Docker Container
 * docker-machine ls 
 
 ### Docker Bash Shell
-* docker exec -it 154657c6858 bash
+* docker run -d redis
+* docker exec -it 2e629f0b730a bash
 
