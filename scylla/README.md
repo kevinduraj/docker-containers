@@ -5,3 +5,5 @@ Scylla on Docker
 
 * docker exec -it some-scylla /bin/bash
 
+* https://hub.docker.com/r/scylladb/scylla/
+
