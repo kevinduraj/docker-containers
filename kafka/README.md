@@ -14,3 +14,10 @@
 * docker-compose stop
 * docker-compose rm
 
+
+### Docker Zookeeper
+* docker-compose pull zookeeper
+
+### References
+* https://raw.githubusercontent.com/confluentinc/docker-images/master/examples/fullstack/docker-compose.yml
+
